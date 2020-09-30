@@ -1,11 +1,12 @@
 # Assault Website Load Generator
 
-# This package will allow a user to generate http traffic to their website.  It will allow for specifying number of requests to make (-r) and if we want to test concurrency (-c) for concurrent users.
+This package will allow a user to generate http traffic to their website.  It will allow for specifying number of requests to make (-r) and if we want to test concurrency (-c) for concurrent users.
 
-# example
+## Example
 
-assault -r 3000 -c 10 http://example.com 
-.... Done! 
+assault -r 3000 -c 10 http://example.com \n
+
+.... Done! \n 
 ---- Results ----
 Successful requests     3000
 Slowest                 0.010s
