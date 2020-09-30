@@ -17,11 +17,14 @@ Average | 0.003s
 Total time | 2.400s
 Requests per min | 90000
 Requests per sec | 1250 
-...
 
-If you'd like to see these results in JSON format, you can use the **-j** flag with a path to a JSON file. :rocket:
+--------------
 
-...
+If you'd like to see these results in JSON format, you can use the **-j** flag with a path to a JSON file. 
+
+:rocket:
+
+
 
 
 
