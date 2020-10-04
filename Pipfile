@@ -4,9 +4,14 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+click = "*"
 
 [dev-packages]
 twine = "*"
 
 [requires]
 python_version = "3.7"
+
+[packages.e1839a8]
+path = "."
+editable = true
